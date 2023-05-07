@@ -1,10 +1,10 @@
 [
     {
       "ParameterKey": "EnvironmentName",
-      "ParameterValue": "udagram-cf-server"
+      "ParameterValue": "cloudformation-server"
     },
     {
       "ParameterKey": "NetworkEnvironmentName",
-      "ParameterValue": "udagram-cf-network"
+      "ParameterValue": "cloudformation-network"
     }
   ]
